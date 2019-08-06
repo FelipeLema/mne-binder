@@ -8,7 +8,7 @@ This is a `binder <http://mybinder.org>`_  helper for
 
 Notebooks can be launched with e.g.:
 
-    http://mybinder.org/repo/mne-tools/mne-binder/notebooks/plot_introduction.ipynb
+    http://mybinder.org/repo/FelipeLema/mne-binder/notebooks/plot_introduction.ipynb
 
 Licensing
 ^^^^^^^^^
